@@ -1,4 +1,11 @@
 
+------------
+introduction
+------------
+
+# opening algorithm & code developed by Xiaoqing Claire Rong-Mullins @xqrongm 
+
+
 ------------------
 function signature
 ------------------
